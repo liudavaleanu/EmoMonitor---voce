@@ -1,4 +1,6 @@
 # EmoMonitor---voce
+
+
 Pentru functionare este necesar:
 - MySQL
 - XAMPP
@@ -16,3 +18,6 @@ In fisierul apliare_algoritm.py:
 
 In fisierul pag4.php:
 - linia 63 - modificare cu datele bazei de date pe care o creezi
+
+
+![image](https://github.com/liudavaleanu/EmoMonitor---voce/assets/139141409/62f40886-d113-421c-a898-67fa59ef2e06)
